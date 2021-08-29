@@ -1,0 +1,26 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(nb.jpg);
+}
+#game_canvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-position: center;
+	background-size: contain;
+	background:url(cb.jfif);
+	background-repeat: no-repeat;
+	background-color: hotpink;
+	background-size: cover;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: greenyellow
+	background-color: rgb(123, 11, 251);
+	font-family:marker;
+}
+
